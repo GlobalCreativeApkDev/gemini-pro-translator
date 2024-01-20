@@ -1,3 +1,19 @@
+Metadata-Version: 2.1
+Name: gemini-pro-translator
+Version: 1
+Summary: This package contains implementation of a translator between languages with Gemini Pro integrated into it.
+Home-page: https://github.com/GlobalCreativeApkDev/gemini-pro-translator
+Author: GlobalCreativeApkDev
+Author-email: globalcreativeapkdev2022@gmail.com
+License: MIT
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.11
+Classifier: Topic :: Scientific/Engineering :: Artificial Intelligence
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
 # gemini-pro-translator
 
 **Gemini Pro Translator** is a translation application inspired by Google Translate and integrated with Gemini Pro.
